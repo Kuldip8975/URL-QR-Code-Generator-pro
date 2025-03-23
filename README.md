@@ -40,5 +40,5 @@ No installation is required. Simply open `index.html` in any modern web browser.
 📧 Email: kuldipmahale2005@gmail.com 
 
 ---
-🔗 **[Live Demo](your-live-demo-link.com)** 
+🔗 **[Live Demo](https://url-qr-code-generator-pro.vercel.app/)** 
 
