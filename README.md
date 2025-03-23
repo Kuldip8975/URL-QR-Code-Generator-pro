@@ -24,8 +24,8 @@ The **URL QR Code Generator** is a simple and efficient web application that all
 4. Click **"Download QR Code"** to save it as an image.  
 5. Use the **"Reset"** button to clear the QR code and start over.  
 
-## 📸 Screenshot (Optional)
-![QR Code Generator Preview](screenshot.png) *(Add a screenshot of your project here)*
+## 📸 Screenshot 
+![QR Code Generator Preview](screenshot.png) 
 
 ## 🏗️ Installation & Setup
 No installation is required. Simply open `index.html` in any modern web browser.
